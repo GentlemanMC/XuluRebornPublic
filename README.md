@@ -1,3 +1,2 @@
 # XuluRebornPublic
-How?
 bakamode
