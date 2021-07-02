@@ -1,3 +1,3 @@
 # XuluRebornPublic
-##bakamode
-## Devlopers jam-in-a-jar and tvffty
+# bakamode
+# Devlopers jam-in-a-jar and tvffty
