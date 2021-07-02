@@ -1,2 +1,2 @@
 # XuluRebornPublic
- Devlopers jam-in-a-jar and tvffty
+ Devlopers are jam-in-a-jar and tvffty
